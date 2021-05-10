@@ -7,3 +7,7 @@ Fashion-MNIST is a dataset of Zalando's article images—consisting of a trainin
 Here's an example of how the data looks (each class takes three-rows):
 
 ![ml](https://www.researchgate.net/profile/Greeshma-K-V/publication/340299295/figure/fig1/AS:875121904476163@1585656729996/Fashion-MNIST-Dataset-Images-with-Labels-and-Description-II-LITERATURE-REVIEW-In-image.jpg)
+
+#### Output
+
+![output](img/1.PNG)
